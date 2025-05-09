@@ -15,7 +15,7 @@ try:
     ip = input("Dirección IP a escanear: ")
     ipaddress.ip_address(ip)  # Valida IP
 except ValueError:
-    print("[-] Dirección IP inválida")
+    print("Dirección IP inválida")
     exit()
 try:	
 	#Creación de instancia de la clase PortScanner
