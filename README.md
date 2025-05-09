@@ -1,2 +1,5 @@
-# CS39Scan
-Escáner de puertos
+# CS39_Scan
+
+<img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+Programa creado en Ptyhon para el escaneo de puertos.
