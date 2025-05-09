@@ -1,9 +1,7 @@
+#!/usr/bin/python3
 import nmap
 import ipaddress
 
-#!/usr/bin/python3
-
-#192.168.0.30
 print("")
 print("   _____    _____           _____ ")
 print("  / ____|  / ____|  ______ /  __ |")
