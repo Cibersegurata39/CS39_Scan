@@ -1,6 +1,9 @@
 # CS39_Scan
 
-<img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-6933FF?style=for-the-badge&logo=nmap&logoColor=white" />
+</div>
 
 Programa creado en Python para el escaneo de puertos de la dirección IP introducida por el usuario.
 
