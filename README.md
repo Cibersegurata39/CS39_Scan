@@ -13,4 +13,4 @@ Por pantalla se mostrará el *host* (la IP proporcionada) y el estado en el que 
 
 Finalmente, se imprime un comando *nmap* con los puertos detectados y la IP proporcionada, junto con los comandos '-sV', para mostrr la versión que corre en cada puerto, '-O' para obtener el sistema operativo que está corriendo en la dirección que se está analizando, y '-sC' para pasar los *scripts* de vulnerabilidades por defecto de *map*.
 
-Además, se permite y controla, cancelar la ejecución en cualquier momento e informar de la acción.
+Además, se permite cancelar la ejecución en cualquier momento e informar de la acción.
